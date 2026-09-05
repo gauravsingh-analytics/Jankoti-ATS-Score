@@ -215,4 +215,4 @@ The design follows **Material Design + Glassmorphism** principles with a dark sp
 
 ## 📝 License
 
-This project is proprietary to **TYRSocial / Jankoti**. All rights reserved.
+This project is proprietary to **Jankoti**. All rights reserved.
